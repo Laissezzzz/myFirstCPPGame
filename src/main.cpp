@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "Hello ni\n";
+	std::cout << "Hello bi\n";
 
 	return 0;
 }
